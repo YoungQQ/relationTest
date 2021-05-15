@@ -1,9 +1,9 @@
 通过dev分支来添加内容
 
-这次执行的步骤：
+正确的步骤：
 git add dev.txt
 git commit -m '第三次'
 git checkout master
+git merge dev
 git push origin master
-git checkout dev
 
