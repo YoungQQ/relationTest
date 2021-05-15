@@ -7,3 +7,9 @@ git checkout master
 git merge dev
 git push origin master
 
+第二种方法：
+
+git add dev.txt
+git commit -m '第三次'
+git push origin master
+
